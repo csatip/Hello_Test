@@ -1,0 +1,2 @@
+def agostin()
+	self
